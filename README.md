@@ -1,5 +1,5 @@
 # amplify-app
- AWS Amplify CI/CD Demo
+ AWS Amplify CI/CD Demo - Soumendu Mukherjee
 
 # Getting Started with Create React App
 
